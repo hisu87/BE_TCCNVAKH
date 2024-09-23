@@ -55,8 +55,9 @@ $ git clone https://github.com/hisu87/BE_TCCNVAKH/
 # Go into the repository
 $ cd BE_TCCNVAKH
 
-# Run the app
-$
+# Open IntelliJ or ...
+$ Open BE_TCCNVAKH folder
+$ and Run it
 ```
 
 
