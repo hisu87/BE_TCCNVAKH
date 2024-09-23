@@ -72,5 +72,5 @@ MIT
 
 ---
 
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> GitHub [@hisu87](https://github.com/hisu87) &nbsp;&middot;&nbsp;
 
